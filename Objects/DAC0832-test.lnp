@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\dac.obj" 
+TO ".\Objects\DAC0832-test" 
+PRINT(".\Listings\DAC0832-test.m51") RAMSIZE(256) 
